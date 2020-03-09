@@ -20,5 +20,5 @@ Lecturer: 0:00 Let's build this application from scratch. This application has a
 
 3:19 For the reservation, there are a few conditions that need to be met. First, if the gift is not reserved by anybody, we simply reserve it for the current user. If the current user already reserved the current gift then we un-reserve it.
 
-3:35 Finally, which means that a gift was already reserved by somebody else, we just keep it that way. We save it. Now, all our tests should succeed.
+3:35 Finally, which means that a gift was already reserved by somebody else, we just keep it that way. We save it. Now, all our tests should succeed. Yay!
 
